@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250054099740",
+    "project_id": "balikmeram-25fbf",
+    "storage_bucket": "balikmeram-25fbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250054099740:android:42b5447f93b6ca376530d9",
+        "android_client_info": {
+          "package_name": "com.example.balikmeram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoWCRoJ35hs2H0a4amfDhKoUfe9aFiyUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
